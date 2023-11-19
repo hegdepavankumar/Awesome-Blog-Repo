@@ -23,6 +23,6 @@ In this section, you'll find additional resources mentioned in the blog posts. F
 
 ## Contributing
 
-Feel free to contribute to make this repository even more awesome! Whether it's fixing a typo, adding a resource, or suggesting a new topic, your contributions are highly appreciated. Check out the [contribution guidelines](link-to-contribution-guidelines) for more details.
+Feel free to contribute to make this repository even more awesome! Whether it's fixing a typo, adding a resource, or suggesting a new topic, your contributions are highly appreciated. Check out the [contribution guidelines](Contribution_Guidelines.md) for more details.
 
 Happy reading! 📚
